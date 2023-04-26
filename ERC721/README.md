@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+This is NFT721 smart-contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+bnbscan: https://testnet.bscscan.com/address/0x9235968a37620f3b36d98b8adc871bc63a76d4f2
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+opensea collection: https://testnets.opensea.io/collection/space-16 
