@@ -1,0 +1,18 @@
+{
+  "title": "Space and its inhabitants",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Space 16"
+    },
+    "description": {
+      "type": "string",
+      "description": "Space and its inhabitants"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://Qma3e9TCzacNpvcHjkffD6YUco76XKnjck9gF5ZkdPWW5t/16.png"
+    }
+  }
+}
